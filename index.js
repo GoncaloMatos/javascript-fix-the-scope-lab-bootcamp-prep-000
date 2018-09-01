@@ -1,12 +1,10 @@
 var animal = 'dog'
 
 function myAnimal() {
-  if (animal==="dog")
-  return cat
+  return animal
 }
 
 function yourAnimal() {
-  if (animal==="dog")
   return animal
 }
 
