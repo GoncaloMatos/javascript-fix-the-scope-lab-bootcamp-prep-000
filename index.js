@@ -10,7 +10,7 @@ function yourAnimal() {
 }
 
 function add2(n) {
-  return parseFloat(n) + two
+  return parseInt(n,10) + two
   const two = 2
 }
 
